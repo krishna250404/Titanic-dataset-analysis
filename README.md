@@ -19,6 +19,19 @@ Survival rate increased substantially with passanger class.
 <img src = "visuals/survival_by_gender_and_class.png" height = 300px width = 300px>
 First class women had the highest survival rate while third class men had the lowest survival rate.
 
-# 5 Age distribution by survival status
+# 5. Age distribution by survival status
 <img src = "visuals/age_distribution_by_survival.png" height = 300px width = 300px>
 Younger passengers showed higher survival likelihood.
+
+# 6. Survival by family size
+<img src = "visuals/survival_by_family_size.png" height = 300px width = 300px>
+Passengers travelling with small families had better survival outcomes.
+
+## Conclusion
+Survival on titanic was strongly influenced by gender and passenger class, with age, and family size also playing meaningful roles.
+
+# Tools used
+-python
+-pandas
+-matplotlin
+-seaborn
